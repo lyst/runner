@@ -8,3 +8,5 @@ csharp_new_line_before_finally = true
 csharp_new_line_before_open_brace = all
 
 csharp_space_after_keywords_in_control_flow_statements = true
+
+indent_size = 4
